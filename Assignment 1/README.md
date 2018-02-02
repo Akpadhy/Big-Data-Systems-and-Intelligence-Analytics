@@ -7,10 +7,11 @@ Ever since Zillow released its Home Value Prediction 11 years ago, it was a grea
 
 <b>Data Description</b><br />
 Below is the description about the files used in this analysis:<br />
-• <b>properties_2016.csv</b> - all the properties with their home features for 2016<br />
-• <b>train_2016.csv</b> - the training set with transactions from 1/1/2016 to 12/31/2016<br />
-• <b>sample_submission.csv</b> - a sample submission file in the correct format<br />
+• <b>properties_2016.csv</b> - all the properties with their home features for 2016. File size = 618 MB<br />
+• <b>train_2016.csv</b> - the training set with transactions from 1/1/2016 to 12/31/2016. File Size = 2.33 MB<br />
+• <b>sample_submission.csv</b> - a sample submission file in the correct format. File size= 59.7 MB<br />
 These files have been manually downloaded and placed in a 'Data' folder. <br />
+Data has not been uploaded on github as github has a restriction of 100 MB per file upload. <br />
 
 Output files shall be placed in an 'Output' folder. Hence, I have started with writing a code to traverse through the file system and create new a folder.<br />
 Bokeh library is used to create graphs and plots in a new tab in the browser. These plots are also saved in html format in the Output folder.<br />
