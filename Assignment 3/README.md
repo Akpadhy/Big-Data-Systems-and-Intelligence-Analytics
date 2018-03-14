@@ -26,7 +26,7 @@
 >o	K Nearest Neighbors </br  >
 >o	SVC </br  >
 >o	Gaussian Naïve Bayes </br  >
->o	Quadratic Discriminant Analysis </br  >
+>o	Quadratic Discriminant Analysis </br  > </br  > 
 •	Implementing Recurrent Neural Network (RNN) </br  >
  </br  >
 <b>Next Steps</b>: </br  >
