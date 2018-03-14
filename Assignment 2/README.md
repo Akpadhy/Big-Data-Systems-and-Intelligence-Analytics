@@ -1,4 +1,4 @@
-The following topics are covered in Assignemnt 2 </br  >
+The following topics are covered in Assignemnt 2 </br  > </br  >
 •	Master Theorem </br  >
 •	Merge Sort </br  >
 •	Krusal’s Algorithm </br  >
