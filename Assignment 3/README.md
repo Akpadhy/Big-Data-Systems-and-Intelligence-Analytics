@@ -1,8 +1,8 @@
 #Project Progress Report
 </br  >
-Problem Statement: Predict Human Activity and classify them into WALKING, WALKING UPSTAIRS, WALKING DOWNSTAIRS, SITTING, STANDING and LAYING </br  >
-Sequential Classification Problem </br  >
-Dataset: Human Activity Recognition </br  >
+<b>Problem Statement</b>: Predict Human Activity and classify them into WALKING, WALKING UPSTAIRS, WALKING DOWNSTAIRS, SITTING, STANDING and LAYING </br  >
+</br  >
+<b>Dataset</b>: Human Activity Recognition </br  >
 7352 observations with 128 datapoints taken within 2.56 seconds with 50% carry forwarded in the training dataset. Each datapoint has 9 measurements for:</br  >
 •	Body Acceleration X axis </br  >
 •	Body Acceleration Y axis </br  >
@@ -14,11 +14,11 @@ Dataset: Human Activity Recognition </br  >
 •	Total Acceleration Y axis </br  >
 •	Total Acceleration Z axis </br  >
  </br  >
-Goal </br  >
-•	Implement Deep Neural Networks as previous state is important to predict the present </br  >
-•	Showcase that Standard Neural Networks shouldn’t be used to predict sequential data </br  >
+<b>Goal</b>: </br  >
+•	Showcase that Standard Neural Networks shouldn’t be used to predict Sequential Classification Problem </br  >
+•	Implement Deep Neural Networks and prove it to be better than Standard Neural Network for Sequential Classification Problem </br  >
  </br  >
-Steps Completed </br  >
+<b>Steps Completed</b>: </br  >
 •	Importing data </br  >
 •	Exploratory Data Analysis </br  >
 •	Implementing Standard Neural Networks </br  >
@@ -29,7 +29,7 @@ Steps Completed </br  >
     o	Quadratic Discriminant Analysis </br  >
 •	Implementing Recurrent Neural Network (RNN) </br  >
  </br  >
-Next Steps: </br  >
+<b>Next Steps</b>: </br  >
 •	Improve efficiency of RNN </br  >
 •	Implement Long Short Term Memory Algorithm (LSTM) </br  >
 •	Import data generated from an Android simulator </br  >
