@@ -22,12 +22,12 @@
 •	Importing data </br  >
 •	Exploratory Data Analysis </br  >
 •	Implementing Standard Neural Networks </br  >
->o	Decision Tree </br  >
->o	K Nearest Neighbors </br  >
->o	SVC </br  >
->o	Gaussian Naïve Bayes </br  >
->o	Quadratic Discriminant Analysis </br  >
-<•	Implementing Recurrent Neural Network (RNN) </br  >
+ >o	Decision Tree </br  >
+ >o	K Nearest Neighbors </br  >
+ >o	SVC </br  >
+ >o	Gaussian Naïve Bayes </br  >
+ >o	Quadratic Discriminant Analysis </br  >
+•	Implementing Recurrent Neural Network (RNN) </br  >
  </br  >
 <b>Next Steps</b>: </br  >
 •	Improve efficiency of RNN </br  >
